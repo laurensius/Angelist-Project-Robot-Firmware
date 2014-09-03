@@ -5,7 +5,7 @@ berikut ini screenshot "Angelist Controller" :
 <table>
 <tr>
 <td align=center>
-<img src="https://bintank23.files.wordpress.com/2014/09/IMG_0605.JPG" width="33%">
+<img src="https://bintank23.files.wordpress.com/2014/09/img_0605.jpg" width="33%">
 </td>
 </tr>
 </table>
