@@ -4,14 +4,8 @@ Pada project ini mobile robot menerima instruksi dari perangkat Androi melalui k
 berikut ini screenshot "Angelist Controller" :
 <table>
 <tr>
-<td><img src="https://bintank23.files.wordpress.com/2014/09/load.png"></td>
-<td><img src="https://bintank23.files.wordpress.com/2014/09/utama.png"></td>
-<td><img src="https://bintank23.files.wordpress.com/2014/09/aktivasi.png"></td>
-</tr>
-<tr>
-<td colspan="3" align=center>
-<img src="https://bintank23.files.wordpress.com/2014/09/l1.png" width="33%">
-<img src="https://bintank23.files.wordpress.com/2014/09/l1.png" width="33%">
+<td align=center>
+<img src="https://bintank23.files.wordpress.com/2014/09/0605.jpg" width="33%">
 </td>
 </tr>
 </table>
